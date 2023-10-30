@@ -6,6 +6,7 @@ import { RouterLink } from 'vue-router';
       <div class="flex gap-4 content-center justify-center">
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/user">User</RouterLink>
       </div>
     </div>
   </div>
